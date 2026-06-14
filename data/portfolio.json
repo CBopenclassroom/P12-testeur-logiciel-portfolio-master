@@ -1,0 +1,34 @@
+[
+    {
+        "image": "imageB.webp",
+        "title": "Booki",
+        "text": "J'ai travaillé sur l'interface du site Booki avec du HTML et du CSS. Je me suis occupé du design responsive sur trois différents formats (écran de PC, tablette et téléphone).",
+        "github_link": "#",
+        "alt": "icone de l'agence de tourisme Booki",
+        "website_link": "https://cbopenclassroom.github.io/Booki/"
+    },
+    {
+        "image": "image2.webp",
+        "title": "Sophie Bluel",
+        "text": "Dans ce projet, j'ai travaillé sur la création d'une page web dynamique en utilisant JavaScript et en communiquant avec une API. J'ai appris à manipuler le DOM, à maîtriser les événements utilisateurs et à rendre une interface interactive.",
+        "github_link": "https://github.com/CBopenclassroom/Portfolio-architecte-sophie-bluel-master",
+        "alt": "icone du site d'architecte d'intérieur de Sophie Bluel",
+        "website_link":""
+    },
+    {
+        "image": "image3.webp",
+        "title": "Kasa",
+        "text": "Ce projet a été la première occasion pour moi d'utiliser React dans la création d'un site web. Il m'a permis d'apprendre à configurer la navigation entre les pages grâce à React Router, ainsi qu'à développer des composants React afin de créer des transitions fluides entre les différentes sections du site. L'initialisation du projet a été réalisée avec Vite, tandis que le back-end est géré avec Node.js.",
+        "github_link": "https://github.com/CBopenclassroom/TesteurLogiciel_appli_location_immobiliere_React-main/",
+        "alt": "icone du site de location mobiliére Kasa",
+        "website_link": ""
+    },
+    {
+        "image": "image4.webp",
+        "title": "Eco Bliss Bath",
+        "text": "Dans ce projet, je me suis occupé du développement des tests automatisés avec Cypress pour garantir le bon fonctionnement des principales fonctionnalités du site e-commerce",
+        "github_link": "https://github.com/CBopenclassroom/Eco-Bliss-Bath-V2-main",
+        "alt": "Logo du site e-commerce Eco Bliss Bath",
+        "website_link": ""
+    }
+]
