@@ -3,7 +3,7 @@
         "image": "imageB.webp",
         "title": "Booki",
         "text": "J'ai travaillé sur l'interface du site Booki avec du HTML et du CSS. Je me suis occupé du design responsive sur trois différents formats (écran de PC, tablette et téléphone).",
-        "github_link": "#",
+        "github_link": "https://github.com/CBopenclassroom/Booki",
         "alt": "icone de l'agence de tourisme Booki",
         "website_link": "https://cbopenclassroom.github.io/Booki/"
     },
