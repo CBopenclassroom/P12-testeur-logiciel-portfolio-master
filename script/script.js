@@ -1,5 +1,4 @@
 
-
 // Function to handle navbar collapse on small devices after a click
 function handleNavbarCollapse() {
     const navLinks = document.querySelectorAll(".nav-item");
