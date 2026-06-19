@@ -95,7 +95,6 @@ function createPortfolioFromJSON() {
 }
 
 // Call the functions to execute the code
-handleNavbarScroll();
 handleNavbarCollapse();
 createSkillsFromJSON();
 createPortfolioFromJSON();
